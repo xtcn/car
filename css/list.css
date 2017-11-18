@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+body {
+  padding-top: 50px;
+}
+.book-list {
+  padding: 10px 2px;
+  text-align: left;
+}
+.book-list-inner {
+  padding: 0px 2px;
+  text-align: left;
+}
+.paging-links {
+  padding: 0px 0px;
+  text-align: right;
+}
+.result-count {
+  padding: 5px 2px;
+  text-align: left;
+}
